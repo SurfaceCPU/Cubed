@@ -1,0 +1,98 @@
+Initialize engine version: 2017.1.0f1 (4d7fe18a2f34)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2039 MB
+    Driver:   16.300.2101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ali\Desktop\Unity Projects\Games\LD39 2nd take\Builds\Windows\x86\Build01_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.085 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.107304 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8394 -> priority: 1 
+  Thread -> id: 6d94 -> priority: 1 
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.931620 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.342186 ms (FindLiveObjects: 0.038826 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.263253 ms  DeleteObjects: 0.007253 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545706 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.293119 ms (FindLiveObjects: 0.034986 ms CreateObjectMapping: 0.026453 ms MarkObjects: 0.226133 ms  DeleteObjects: 0.005119 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.259945 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.316586 ms (FindLiveObjects: 0.036693 ms CreateObjectMapping: 0.029013 ms MarkObjects: 0.245333 ms  DeleteObjects: 0.005119 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.592212 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.290133 ms (FindLiveObjects: 0.027733 ms CreateObjectMapping: 0.020053 ms MarkObjects: 0.236799 ms  DeleteObjects: 0.004693 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.534186 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.392959 ms (FindLiveObjects: 0.041813 ms CreateObjectMapping: 0.028586 ms MarkObjects: 0.315733 ms  DeleteObjects: 0.005973 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487252 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.284586 ms (FindLiveObjects: 0.036693 ms CreateObjectMapping: 0.026879 ms MarkObjects: 0.213759 ms  DeleteObjects: 0.005973 ms)
+
+Scene with build index: 5 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
+Scene with build index: 5 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
+Scene with build index: 5 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
+Scene with build index: 5 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
+Scene with build index: 5 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
